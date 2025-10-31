@@ -20,9 +20,9 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Application Preview
 
-<img width="800" height="839" alt="GRADE_CALCULATOR" src="https://github.com/user-attachments/assets/eb04b404-8d29-4f32-8998-e85a0942cf61" />
+<img width="1025" height="927" alt="image" src="https://github.com/user-attachments/assets/a95e4e64-b4ff-4504-bb33-ffdf9053330a" />
 
-Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Grade-Calculator
+Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Gradebook-App
 
 ---
 
