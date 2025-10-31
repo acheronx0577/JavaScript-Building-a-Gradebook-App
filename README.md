@@ -46,7 +46,7 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Gradebook-App
 
 ### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-Number-Sorter.git
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Gradebook-App.git
 ```
 
 ### 2️⃣ Run the file
